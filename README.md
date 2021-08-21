@@ -1,6 +1,7 @@
 # Titre
 This R package can be used to determine the cutoff value in ELISA and the titre value
 Determination of cutoff value of ELISA
+
 For determination of cutoff value of ELISA, the ODs of the negative controls are required. So, create the vector containing OD values of negative control wells.
 cut_off(x)
 Arguments
