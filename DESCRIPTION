@@ -1,0 +1,16 @@
+Package: Titre
+Type: Package
+Title: ELISA titre
+Version: 0.1.0
+Author: Shantanu Tamuly
+Maintainer: Shantanu Tamuly <drsan100@gmail.com>
+Description: This package is required for calculation of cutoff value for ELISA.
+            In addition, it can be used to calculate the titre value.
+Depends:R (>= 2.15)
+Imports:broom,stats
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
